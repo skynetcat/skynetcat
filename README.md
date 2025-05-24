@@ -4,7 +4,7 @@ Many people love fancy READMEs for their profiles but I'll just leave some advic
     - Sacrificing many learning resources for a single one. Just start somewhere.
     - Sacrificing drowning in many fields of knowledge for a single one or a few that just solve your own problems.
 - Spend some time off technology and be in your thoughts. You'll be surprised how many creative ideas you get!
-- You'll never be ready. You'll never be done. So, go spend some time with people you love before it's too late
+- You'll never be ready. You'll never be done. So, go spend some time with people you love before it's too late.
 
-<a href="https://ko-fi.com/skynetcat"><img width="200" src="images/ko-fi.png" alt="Support me on ko-fi"></a>
+<a href="https://ko-fi.com/skynetcat"><img width="100" src="images/ko-fi.png" alt="Support me on ko-fi"></a>
 
