@@ -1,4 +1,4 @@
-Many people love fancy READMEs for their profiles but I'll just leave some advice here. Advice that I realized and changed my life:
+I'll just leave some advice here. Advice that I realized and changed my life:
 - Slow down. Knowledge isn't about consumption. It's about what you do with it.
 - Your time is finite. You can't do everything, so you have to make sacrifices. What I mean is:
     - Sacrificing many learning resources for a single one. Just start somewhere.
